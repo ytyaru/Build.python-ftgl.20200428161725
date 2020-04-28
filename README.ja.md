@@ -7,6 +7,7 @@
 # デモ
 
 ![demo](doc/demo.png)
+![demo2](doc/demo2.png)
 
 # 開発環境
 

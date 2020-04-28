@@ -7,6 +7,7 @@ Build a library that uses FTGL in Python.
 # DEMO
 
 ![demo](doc/demo.png)
+![demo2](doc/demo2.png)
 
 # Requirement
 
